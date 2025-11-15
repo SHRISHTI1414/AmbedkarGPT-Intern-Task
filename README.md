@@ -4,7 +4,7 @@ This repository contains my submission for **Kalpit Pvt Ltd, UK – AI Intern Hi
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of the assignment was to create an offline RAG (Retrieval‑Augmented Generation) pipeline that:
 
@@ -206,16 +206,6 @@ AmbedkarGPT-Intern-Task
 └── README.md
 ```
 
----
-
-## 📄 Notes
-
-* This project fulfills all requirements mentioned in the assignment.
-* Everything runs **locally**, without any API calls or external services.
-* The code is clean, minimal, and production‑style.
-
----
-
  
 
-If you have any doubts, feel free to test the script using the instructions above.
+ 
