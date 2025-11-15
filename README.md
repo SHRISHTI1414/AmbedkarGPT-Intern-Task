@@ -216,6 +216,6 @@ AmbedkarGPT-Intern-Task
 
 ---
 
-## ✔️ End of README
+ 
 
 If you have any doubts, feel free to test the script using the instructions above.
