@@ -1,4 +1,3 @@
-# AmbedkarGPT-Intern-Task
 # AmbedkarGPT – AI Intern Assignment (Phase 1)
 
 This repository contains my submission for **Kalpit Pvt Ltd, UK – AI Intern Hiring Assignment (Phase 1)**. The task was to build a **simple command-line RAG-based Question–Answer system** using local models and open‑source tools.
